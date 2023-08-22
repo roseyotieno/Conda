@@ -24,7 +24,7 @@ This is MultiQC v1.15
 # packages within qc environment
 ---
 
-Name                    Version                   Build      Channel
+#### Name                    Version                   Build      Channel
 
 _libgcc_mutex             0.1                 conda_forge    conda-forge
 
